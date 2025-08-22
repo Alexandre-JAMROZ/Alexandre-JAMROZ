@@ -19,7 +19,7 @@
   <a href="https://instagram.com/alexandre.jamroz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alexandre.jamroz" height="30" width="40" /></a>
 </p>
 
-<h2 align="center">Langages et outils acquis :</h2>
+<h2 align="center">Langages et outils acquis</h2>
 <p align="center"> 
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
