@@ -70,13 +70,13 @@
 
 <h2 align="center">Quelques statistiques</h2>
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexandre-jamroz&locale=fr&theme=vue-dark" alt="alexandre-jamroz" />
-</p>
-
-<p align="center">&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=alexandre-jamroz&show_icons=true&locale=fr&theme=vue-dark" alt="alexandre-jamroz"/>
+  <img width=500 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexandre-jamroz&locale=fr&theme=vue-dark" alt="alexandre-jamroz" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandre-jamroz&langs_count=10&show_icons=true&locale=fr&layout=pie&theme=vue-dark" alt="alexandre-jamroz" />
+  <img width=500 src="https://github-readme-stats.vercel.app/api?username=alexandre-jamroz&show_icons=true&locale=fr&theme=vue-dark" alt="alexandre-jamroz"/>
+</p>
+
+<p align="center">
+  <img width=500 src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandre-jamroz&langs_count=10&show_icons=true&locale=fr&layout=pie&theme=vue-dark" alt="alexandre-jamroz" />
 </p>
