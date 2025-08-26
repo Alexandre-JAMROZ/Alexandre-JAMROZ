@@ -1,13 +1,11 @@
 <h1 align="center">Bienvenue 👋, je suis Alexandre JAMROZ</h1>
 <h3 align="center">Actuellement élève en informatique à l'Université de Nouvelle-Calédonie</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexandre-jamroz" alt="alexandre-jamroz" /></a> </p>
-
 - 🔭 Je travaille actuellement sur un projet se nommant **"Who's Julia"**
   - Lors de ce projet, je dois conceptualiser un site web permettant aux usagers d'apprendre le langage de programmation Julia
 
-- 🌱 J'apprends actuellement le **Big Data**
-  - Je suis passionné par le monde des données, la conception et l'utilisation des bases de données
+- 🌱 J'apprends actuellement le **Full Stack**
+  - Je suis passionné par la conception de site web et le monde des données, le développement full stack me permet donc de relier les deux
 
 - 📫 Contactez-moi sur **alexandrejamrozpro@gmail.com**, ou sur les réseaux sociaux ci-dessous
 
@@ -69,9 +67,6 @@
 </p>
 
 <h2 align="center">Quelques statistiques</h2>
-<p align="center">
-  <img width=500 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexandre-jamroz&locale=fr&theme=vue-dark" alt="alexandre-jamroz" />
-</p>
 
 <p align="center">
   <img width=500 src="https://github-readme-stats.vercel.app/api?username=alexandre-jamroz&show_icons=true&locale=fr&theme=vue-dark" alt="alexandre-jamroz"/>
