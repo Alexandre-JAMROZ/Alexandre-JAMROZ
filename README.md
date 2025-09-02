@@ -12,9 +12,10 @@
   
 <h2 align="center">Mes réseaux sociaux</h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/alexandre-jamroz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexandre-jamroz" height="30" width="40" /></a>
-  <a href="https://fb.com/alexandre.jamroz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alexandre.jamroz" height="30" width="40" /></a>
-  <a href="https://instagram.com/alexandre.jamroz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alexandre.jamroz" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/alexandre-jamroz/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexandre-jamroz" height="30" width="40" /></a>
+  <a href="https://fb.com/alexandre.jamroz" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alexandre.jamroz" height="30" width="40" /></a>
+  <a href="https://instagram.com/alexandre.jamroz" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alexandre.jamroz" height="30" width="40" /></a>
+  <a href="https://www.freecodecamp.org/alexandre-jamroz" target="_blank"><img align="center" src="https://design-style-guide.freecodecamp.org/img/fcc_primary_small.svg" alt="alexandre.jamroz" height="30" width="40" /></a>
 </p>
 
 <h2 align="center">Langages et outils acquis</h2>
